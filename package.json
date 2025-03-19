@@ -16,12 +16,12 @@
     "url": "https://github.com/jet6ki/Backend-CA-3/issues"
   },
   "homepage": "https://github.com/jet6ki/Backend-CA-3#readme",
-  "description": "",
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongoose": "^8.12.1",
     "node": "^20.19.0",
     "nodemon": "^3.1.9"
-  }
+  },
+  "description": ""
 }
